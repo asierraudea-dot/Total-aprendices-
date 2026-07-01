@@ -1,1 +1,4 @@
 # Total-aprendices-
+DATAROBOT_API_KEY = ""
+DATAROBOT_DEPLOYMENT_ID = ""
+DATAROBOT_HOST = "https://app.datarobot.com"
